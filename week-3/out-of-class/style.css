@@ -1,0 +1,42 @@
+body {
+    background-color: fdfdfd;
+  figure: #FCF7D3;
+    color: black;
+    font-family: 'Average Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  padding-left: 2em;
+  padding-right: 2em;
+  }
+author {
+    font-variant: small-caps;
+}
+dt {font-variant: small-caps;
+font-size: 1.5em}
+h1 {
+  font-family:'Goudy Bookletter 1911', serif;
+  color: #CD8C52;
+}
+h2 {font-family:'Goudy Bookletter 1911', serif;
+  color: #CD8C52;}
+figure {
+  background-color: #FCF7D3;
+  text-align: center;
+}
+id class="person" {
+  background-color: #DEE8BE;
+}
+blockquote {
+  background-color: #FCF7D3;
+  }
+
+a:link {
+  color: #0000FF;
+  text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
