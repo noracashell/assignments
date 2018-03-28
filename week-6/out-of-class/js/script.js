@@ -25,6 +25,7 @@ function displayOneDaysHours(one_days_hours) {
   }
 }
 
+// Display the week's hours to the user.
 function dailyHours(hours) {
  hours.forEach(displayOneDaysHours);
 }
