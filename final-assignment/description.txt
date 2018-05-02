@@ -1,0 +1,3 @@
+This final assignment is my version of the Somerville Library. I have made HTML pages for
+the main website, contact site, hours, blog, and calendar. I hope that this webpage will
+be beneficial for the Somerville community.
